@@ -68,7 +68,7 @@ textarea::placeholder {
 .header__logo {
   width: 35%;
   height: 72px;
-  background-image: url("/15_cross-browser/img/logo.svg");
+  background-image: url("../img/logo.svg");
   background-repeat: no-repeat;
   z-index: 10;
 }
