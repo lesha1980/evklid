@@ -134,17 +134,17 @@ textarea::placeholder {
   margin-right: 2px;
   display: flex;
   align-items: center;
-  background-image: url("/15_cross-browser/img/Search.svg");
+  background-image: url("../img/Search.svg");
   background-repeat: no-repeat;
   background-position-y: center;
 }
 
 .header__search:hover {
-  background-image: url("/15_cross-browser/img/Search1.svg");
+  background-image: url("../img/Search1.svg");
 }
 
 .header__search:active {
-  background-image: url("/15_cross-browser/img/Search2.png");
+  background-image: url("../img/Search2.png");
 }
 
 .nav-list__item:not(:last-child) {
@@ -185,19 +185,19 @@ textarea::placeholder {
 }
 
 .slide1 {
-  background-image: url("/15_cross-browser/img/header-img.jpg");
+  background-image: url("../img/header-img.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .slide2 {
-  background-image: url("/15_cross-browser/img/brown-and-blue-glass-building.jpg");
+  background-image: url("../img/brown-and-blue-glass-building.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .slide3 {
-  background-image: url("/15_cross-browser/img/apartment-apartment-building-architecture-building.jpg");
+  background-image: url("../img/apartment-apartment-building-architecture-building.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -305,7 +305,7 @@ textarea::placeholder {
   display: flex;
   justify-content: space-around;
   align-items: flex-end;
-  background-image: url("/15_cross-browser/img/planning.jpg");
+  background-image: url("../img/planning.jpg");
   background-repeat: no-repeat;
 
 }
@@ -383,7 +383,7 @@ textarea::placeholder {
 }
 
 .consultation-card {
-  background-image: url("/15_cross-browser/img/cube.svg");
+  background-image: url("../img/cube.svg");
   background-repeat: no-repeat;
   background-position-y: 70px;
   background-position-x: 63px;
@@ -418,7 +418,7 @@ textarea::placeholder {
 }
 
 .progress-card {
-  background-image: url("/15_cross-browser/img/gear.svg");
+  background-image: url("../img/gear.svg");
   background-repeat: no-repeat;
   background-position-y: 54px;
   background-position-x: 63px;
@@ -524,19 +524,19 @@ textarea::placeholder {
 }
 
 .section-how-work__right-column-consultation {
-  background-image: url("/15_cross-browser/img/consultation-block.jpg");
+  background-image: url("../img/consultation-block.jpg");
 }
 
 .section-how-work__right-column-estimate {
-  background-image: url("/15_cross-browser/img/estimate.jpg");
+  background-image: url("../img/estimate.jpg");
 }
 
 .section-how-work__right-column-contractor {
-  background-image: url("/15_cross-browser/img/contractor.jpg");
+  background-image: url("../img/contractor.jpg");
 }
 
 .section-how-work__right-column-inspection {
-  background-image: url("/15_cross-browser/img/inspection.jpg");
+  background-image: url("../img/inspection.jpg");
 }
 
 .section-how-work__agreement,
@@ -662,7 +662,7 @@ textarea::placeholder {
 .list-faq__cross {
    width: 50px;
    height: 50px;
-   background-image: url("/15_cross-browser/img/cross.svg");
+   background-image: url("../img/cross.svg");
    background-repeat: no-repeat;
 }
 
@@ -717,7 +717,7 @@ textarea::placeholder {
   width: 224px;
   height: 72px;
   margin-bottom: 19px;
-  background-image: url("/15_cross-browser/img/logo_2.svg");
+  background-image: url("../img/logo_2.svg");
   background-repeat: no-repeat;
 }
 
@@ -749,16 +749,16 @@ textarea::placeholder {
 
 .footer__fk {
   margin-right: 25px;
-  background-image: url("/15_cross-browser/img/fb.svg");
+  background-image: url("../img/fb.svg");
 }
 
 .footer__vk {
   margin-right: 25px;
-  background-image: url("/15_cross-browser/img/vk.svg");
+  background-image: url("../img/vk.svg");
 }
 
 .footer__instagram {
-  background-image: url("/15_cross-browser/img/instagram.svg");
+  background-image: url("../img/instagram.svg");
 }
 
 .footer__order {
@@ -911,22 +911,22 @@ textarea::placeholder {
    }
 
    .section-how-work__right-column-consultation {
-    background-image: url("/15_cross-browser/img/consultation-block473.jpg");
+    background-image: url("../img/consultation-block473.jpg");
     background-size: cover;
    }
 
    .section-how-work__right-column-contractor {
-    background-image: url("/15_cross-browser/img/contractor473.jpg");
+    background-image: url("../img/contractor473.jpg");
     background-size: cover;
    }
 
    .section-how-work__right-column-estimate {
-    background-image: url("/15_cross-browser/img/estimate473.jpg");
+    background-image: url("../img/estimate473.jpg");
     background-size: cover;
    }
 
    .section-how-work__right-column-inspection {
-    background-image: url("/15_cross-browser/img/inspection473.jpg");
+    background-image: url("../img/inspection473.jpg");
     background-size: cover;
    }
 
@@ -991,7 +991,7 @@ textarea::placeholder {
     width: 100%;
     height: 622px;
     margin-bottom: 50px;
-    background-image: url("/15_cross-browser/img/planning1024.jpg");
+    background-image: url("../img/planning1024.jpg");
     background-size: cover;
   }
 
@@ -1071,7 +1071,7 @@ textarea::placeholder {
     width: 150px;
     height: 48px;
     margin-right: 2px;
-    background-image: url("/15_cross-browser/img/logo1024.svg");
+    background-image: url("../img/logo1024.svg");
   }
 
   .header__nav {
@@ -1115,7 +1115,7 @@ textarea::placeholder {
     position: absolute;
     margin-top: 39px;
     margin-left: 50px;
-    background-image: url("/15_cross-browser/img/icon_X.svg");
+    background-image: url("../img/icon_X.svg");
     background-repeat: no-repeat;
     visibility: hidden;
     opacity: 0;
@@ -1123,12 +1123,12 @@ textarea::placeholder {
   }
 
   .header__close-icon:hover {
-    background-image: url("/15_cross-browser/img/iconX_hover.svg");
+    background-image: url("../img/iconX_hover.svg");
     background-repeat: no-repeat;
   }
 
   .header__close-icon:active {
-    background-image: url("/15_cross-browser/img/iconX_active.svg");
+    background-image: url("../img/iconX_active.svg");
     background-repeat: no-repeat;
   }
 
@@ -1240,15 +1240,15 @@ textarea::placeholder {
   }
 
   .slide1 {
-    background-image: url("/15_cross-browser/img/header-img924.jpg");
+    background-image: url("../img/header-img924.jpg");
   }
 
   .slide2 {
-    background-image: url("/15_cross-browser/img/apartment-building924.jpg");
+    background-image: url("../img/apartment-building924.jpg");
   }
 
   .slide3 {
-    background-image: url("/15_cross-browser/img/brown-and-blue-glass-building924.jpg");
+    background-image: url("../img/brown-and-blue-glass-building924.jpg");
   }
 
   .section-hero__heading {
@@ -1302,7 +1302,7 @@ textarea::placeholder {
     width: 924px;
     height: 640px;
     margin-bottom: 50px;
-    background-image: url("/15_cross-browser/img/planning924.jpg");
+    background-image: url("../img/planning924.jpg");
     background-size: cover;
   }
 
@@ -1393,25 +1393,25 @@ textarea::placeholder {
   }
 
   .section-how-work__right-column-consultation {
-    background-image: url("/15_cross-browser/img/consultation1024.jpg");
+    background-image: url("../img/consultation1024.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   .section-how-work__right-column-contractor {
-    background-image: url("/15_cross-browser/img/contractor1024.jpg");
+    background-image: url("../img/contractor1024.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   .section-how-work__right-column-estimate {
-    background-image: url("/15_cross-browser/img/estimate1024.jpg");
+    background-image: url("../img/estimate1024.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   .section-how-work__right-column-inspection {
-    background-image: url("/15_cross-browser/img/inspection1024.jpg");
+    background-image: url("../img/inspection1024.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -1591,7 +1591,7 @@ textarea::placeholder {
     width: 100%;
     height: 650px;
     margin-bottom: 15px;
-    background-image: url("/15_cross-browser/img/planing668.jpg");
+    background-image: url("../img/planing668.jpg");
   }
 
   .details__text {
@@ -1682,19 +1682,19 @@ textarea::placeholder {
   }
 
   .section-how-work__right-column-consultation {
-    background-image: url("/15_cross-browser/img/consultation-block668.jpg");
+    background-image: url("../img/consultation-block668.jpg");
   }
 
   .section-how-work__right-column-contractor {
-    background-image: url("/15_cross-browser/img/contractor668.jpg");
+    background-image: url("../img/contractor668.jpg");
   }
 
   .section-how-work__right-column-estimate {
-    background-image: url("/15_cross-browser/img/estimate668.jpg");
+    background-image: url("../img/estimate668.jpg");
   }
 
   .section-how-work__right-column-inspection {
-    background-image: url("/15_cross-browser/img/inspection668.jpg");
+    background-image: url("../img/inspection668.jpg");
   }
 
   .list-steps {
@@ -1838,14 +1838,14 @@ textarea::placeholder {
   }
 
   .header__close-icon {
-    background-image: url("/15_cross-browser/img/iconX320.svg");
+    background-image: url("../img/iconX320.svg");
     margin-left: 350px;
   }
 
 
   .section-hero__container {
     max-height: 600px;
-    background-image: url("/15_cross-browser/img/header-img290.jpg");
+    background-image: url("../img/header-img290.jpg");
  }
 
  .section-hero__heading {
@@ -2033,15 +2033,15 @@ textarea::placeholder {
    }
 
    .slide1 {
-     background-image: url("/15_cross-browser/img/header-img290.jpg");
+     background-image: url("../img/header-img290.jpg");
    }
 
    .slide2 {
-     background-image: url("/15_cross-browser/img/apartment-building290.jpg");
+     background-image: url("../img/apartment-building290.jpg");
    }
 
    .slide3 {
-     background-image: url("/15_cross-browser/img/brown-and-blue-glass-building290.jpg");
+     background-image: url("../img/brown-and-blue-glass-building290.jpg");
    }
 
    .section-hero__pre-swiper-content {
@@ -2069,7 +2069,7 @@ textarea::placeholder {
   .header__logo {
     height: 31px;
     margin-left: 15px;
-    background-image: url("/15_cross-browser/img/logo320.svg");
+    background-image: url("../img/logo320.svg");
   }
 
   .header__menu-burger {
@@ -2099,7 +2099,7 @@ textarea::placeholder {
   }
 
   .header__close-icon {
-    background-image: url("/15_cross-browser/img/iconX320.svg");
+    background-image: url("../img/iconX320.svg");
 
   }
 
@@ -2178,7 +2178,7 @@ textarea::placeholder {
   .details {
     height: 650px;
     margin-top: 26px;
-    background-image: url("/15_cross-browser/img/planning290.jpg");
+    background-image: url("../img/planning290.jpg");
     background-size: contain;
     align-items: center;
   }
@@ -2306,22 +2306,22 @@ textarea::placeholder {
   }
 
   .section-how-work__right-column-consultation {
-    background-image: url("/15_cross-browser/img/consultation-block290.jpg");
+    background-image: url("../img/consultation-block290.jpg");
     background-size: contain;
   }
 
    .section-how-work__right-column-contractor {
-    background-image: url("/15_cross-browser/img/contractor290.jpg");
+    background-image: url("../img/contractor290.jpg");
     background-size: contain;
    }
 
    .section-how-work__right-column-estimate {
-    background-image: url("/15_cross-browser/img/estimate290.jpg");
+    background-image: url("../img/estimate290.jpg");
     background-size: contain;
    }
 
    .section-how-work__right-column-inspection {
-    background-image: url("/15_cross-browser/img/inspection290.jpg");
+    background-image: url("../img/inspection290.jpg");
     background-size: contain;
    }
 
@@ -2462,7 +2462,7 @@ textarea::placeholder {
     width: 131px;
     height: 42px;
     margin-bottom: 16px;
-    background-image: url("/15_cross-browser/img/footer_logo320.svg");
+    background-image: url("../img/footer_logo320.svg");
   }
 
   .footer__socials {
@@ -2473,7 +2473,7 @@ textarea::placeholder {
     width: 34.4px;
     height: 34.4px;
     margin-right: 14.38px;
-    background-image: url("/15_cross-browser/img/fb320.svg");
+    background-image: url("../img/fb320.svg");
     background-repeat: no-repeat;
   }
 
@@ -2481,14 +2481,14 @@ textarea::placeholder {
     width: 34.4px;
     height: 34.4px;
     margin-right: 14.38px;
-    background-image: url("/15_cross-browser/img/vk320.svg");
+    background-image: url("../img/vk320.svg");
     background-repeat: no-repeat;
   }
 
   .footer__instagram {
     width: 34.4px;
     height: 34.4px;
-    background-image: url("/15_cross-browser/img/instagram320.svg");
+    background-image: url("../img/instagram320.svg");
     background-repeat: no-repeat;
   }
 }
